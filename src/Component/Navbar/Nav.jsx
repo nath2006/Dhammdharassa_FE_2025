@@ -34,6 +34,9 @@ export default function Nav() {
             <Link to='/news' className='text-black hover:text-gray-300 text-md uppercase tracking-wider font-medium font-jakarta'>
               News
             </Link>
+            <Link to='/merch' className='text-black hover:text-gray-300 text-md uppercase tracking-wider font-medium font-jakarta'>
+              Merch
+            </Link>
             <Link to='/login' className='px-6 py-2 border border-black text-md font-jakarta font-medium rounded-md text-black hover:bg-white hover:text-black transition-colors duration-300'>
               Login
             </Link>
